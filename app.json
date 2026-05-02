@@ -10,6 +10,12 @@
     },
     "android": {
       "package": "com.emaxe.testreactnative"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "eb78fc79-0112-47e0-b156-6e405518f1dc"
+      }
+    },
+    "owner": "emaxe"
   }
 }
